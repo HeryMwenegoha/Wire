@@ -1,4 +1,4 @@
-	Follows the implementaion of the TWI library by Nicholas Zambetti
+Follows the implementaion of the TWI library by Nicholas Zambetti
   
   By : Hery A Mwenegoha
   I have modified the library to include functions that were useful to me:-
